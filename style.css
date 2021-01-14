@@ -1,0 +1,23 @@
+body {
+  background-image: url(/styleContent/vudatha.jpg);
+}
+.container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+#sq {
+  width: 600px;
+  height: 600px;
+}
+.btn {
+  background-color: rgb(50, 61, 61);
+  color: beige;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#para {
+  text-align: center;
+  font-size: xx-large;
+  color: beige;
+}
