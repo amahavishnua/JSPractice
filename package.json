@@ -1,0 +1,31 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "7 cool projects",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amahavishnua/JSPractice.git"
+  },
+  "keywords": [
+    "projects"
+  ],
+  "author": "Vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amahavishnua/JSPractice/issues"
+  },
+  "homepage": "https://github.com/amahavishnua/JSPractice#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "lite-server": "^2.6.1",
+    "popper.js": "^1.16.1"
+  }
+}
