@@ -19,9 +19,7 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amahavishnua/JSPractice/issues"
-  },
-  "homepage": "https://amahavishnua.github.io/JSPractice/Justcounting",
-  "dependencies": {
+  },"dependencies": {
     "bootstrap": "^4.5.3",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
