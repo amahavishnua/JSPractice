@@ -1,5 +1,5 @@
 body {
-  background-image: url(/styleContent/vudatha.jpg);
+  background-image: url(/styleContent/deer.jpg);
 }
 .container {
   display: flex;
@@ -11,8 +11,8 @@ body {
   height: 600px;
 }
 .btn {
-  background-color: rgb(50, 61, 61);
-  color: beige;
+  background-color: rgb(226, 207, 99);
+  color: rgb(15, 15, 14);
   margin-top: 5%;
   margin-bottom: 5%;
 }
