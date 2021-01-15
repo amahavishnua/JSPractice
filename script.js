@@ -12,10 +12,11 @@ $(
         diffE=(NT-N)/1000;
         if (diffE>60){
             diffE=diffE/60;
+            var minN=1;
         }
         console.log(diffE);
-        document.getElementById("resUlt").innerHTML = diffE;
-        if (diffE>60){
+        document.getElementById("resUlt").innerHTML = diffE+" Sec";
+        if (diffE>60 && minN==1){
             document.getElementById("resUlt").innerHTML = diffE+" min";
         }
     }
