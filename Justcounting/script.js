@@ -15,9 +15,9 @@ $(
             var minN=1;
         }
         console.log(diffE);
-        document.getElementById("resUlt").innerHTML = diffE+" Sec";
+        document.getElementById("resUlt").innerHTML = "You only lasted "+diffE+" Sec";
         if (diffE>60 && minN==1){
-            document.getElementById("resUlt").innerHTML = diffE+" min";
+            document.getElementById("resUlt").innerHTML = "You only lasted "+diffE+" min";
         }
     }
 )
